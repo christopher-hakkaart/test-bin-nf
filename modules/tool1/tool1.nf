@@ -9,7 +9,6 @@ process test {
     script:
     """
     test.sh
-    test2.sh
     echo "my message" | cowpy
     """
 
