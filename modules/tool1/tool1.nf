@@ -5,6 +5,7 @@ process test {
 
     output:
     stdout
+    
 
     script:
     """
